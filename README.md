@@ -1,10 +1,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/bayu-iswahyudi-761457226/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bayu1s" height="30" width="40" /></a>
-<a href="https://instagram.com/bayu1swahyudi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="bayu1swahyudi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCW2lyQoXMYUvRk8JpYNNcJw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboo goel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCW2lyQoXMYUvRk8JpYNNcJw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="khushboo goel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kenblockchain/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bayu1s" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me/1078183614967197736" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="bayu1swahyudi" height="30" width="40" /></a>
+<a href="https://twitter.com/kenblockchain_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboo goel" height="30" width="40" /></a>
+<a href="https://t.me/kenblockchaindev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="khushboo goel" height="30" width="40" /></a>
   
   
   
