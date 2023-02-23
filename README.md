@@ -1,6 +1,9 @@
-
-
-<h1 align="center"> kenblockchain labs</h1>
+<div align="center">
+<img align="top" src="https://user-images.githubusercontent.com/126150587/220898866-4b7c1631-d100-427a-a2cc-7e4c3fd71b7c.jpg" height='350'/>
+<br />
+<br />
+  </div>
+</div>
 
 <h4 align="center"> :earth_africa: hy , Im blockchain's enthusiasts  :earth_africa:</h1>
 
@@ -11,21 +14,11 @@ We work with all popular and new/unique blockchains. We help projects develop in
  
  <div align="center">
   <div style="display: flex; align-items: flex-start;">
- <img align="top" src="https://komarev.com/ghpvc/?username=kenblockchainlabs&color=brightgreen" height='35'/>
+ <img align="top" src="https://komarev.com/ghpvc/?username=kenblockchainlabs&color=brightgreen" height='25'/>
 <br />
 <br />
   </div>
 </div>
-
-#
- <div align="center">
- 
-[<img align="center" src="https://user-images.githubusercontent.com/44331529/190991117-92cba33a-637c-4870-b652-34d255f87995.png" alt='discord' height='35'>](https://discordapp.com/users/898466460232454154) [<img align="center" src='https://user-images.githubusercontent.com/44331529/190991712-4d6212ff-3a9d-422d-8b33-739ac76c00d8.png' alt='telegram' height='35'>](https://t.me/choiriyahdev)
-<br />
-<br />
-  </div>
-</div>
-
 
 
 #
@@ -57,16 +50,24 @@ We work with all popular and new/unique blockchains. We help projects develop in
 
 
 
+#
+
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ 
+
 
 <a href="https://www.linkedin.com/in/kenblockchain/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bayu1s" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/1078183614967197736" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="bayu1swahyudi" height="30" width="40" /></a>
 <a href="https://twitter.com/kenblockchain_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboo goel" height="30" width="40" /></a>
 <a href="https://t.me/kenblockchaindev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="khushboo goel" height="30" width="40" /></a>
+ 
+ 
+ 
+ 
   
   
   
