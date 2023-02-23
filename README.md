@@ -40,10 +40,10 @@ We work with all popular and new/unique blockchains. We help projects develop in
 
 [<img src='https://user-images.githubusercontent.com/83868103/183119780-7b6a498b-11d9-4d15-b14c-836db65ca6f2.gif' alt='inactive'  width='99.5%'>](https://github.com/kenblockchainlabs)
 [<img src='https://user-images.githubusercontent.com/126150587/220906090-e3487f35-3cff-4ab3-947d-70f8a96c3f36.jpg' alt='discord' height='94'>](https://github.com/obajay)[<img src='https://user-images.githubusercontent.com/126150587/220906529-a17376ba-3420-4821-b19b-c72a10bce939.jpg' alt='discord' height='94'>](https://github.com/obajay) 
+[<img src='https://user-images.githubusercontent.com/126150587/220907913-06b732d7-8110-4ac5-97b9-e85e36c3f249.jpg' alt='discord' height='94'>](https://github.com/obajay)[<img src='https://user-images.githubusercontent.com/126150587/220908129-5d065af3-999c-4ac0-be98-d15a0450e606.png' alt='discord' height='94'>](https://github.com/obajay)
 
 
-
-
+[<img src='https://user-images.githubusercontent.com/126150587/220907913-06b732d7-8110-4ac5-97b9-e85e36c3f249.jpg' alt='discord' height='94'>](https://github.com/obajay)[<img src='https://user-images.githubusercontent.com/126150587/220908129-5d065af3-999c-4ac0-be98-d15a0450e606.png' alt='discord' height='94'>](https://github.com/obajay)
 
 
 
