@@ -42,10 +42,11 @@ We work with all popular and new/unique blockchains. We help projects develop in
 [<img src='https://user-images.githubusercontent.com/126150587/220906090-e3487f35-3cff-4ab3-947d-70f8a96c3f36.jpg' alt='discord' height='94'>](https://github.com/obajay)[<img src='https://user-images.githubusercontent.com/126150587/220906529-a17376ba-3420-4821-b19b-c72a10bce939.jpg' alt='discord' height='94'>](https://github.com/obajay) 
 [<img src='https://user-images.githubusercontent.com/126150587/220907913-06b732d7-8110-4ac5-97b9-e85e36c3f249.jpg' alt='discord' height='94'>](https://github.com/obajay)[<img src='https://user-images.githubusercontent.com/126150587/220908129-5d065af3-999c-4ac0-be98-d15a0450e606.png' alt='discord' height='94'>](https://github.com/obajay)
 [<img src='https://user-images.githubusercontent.com/126150587/220909069-38a1e5d7-8f33-473b-b90d-92345241d6d5.jpg' alt='discord' height='94'>](https://github.com/obajay)[<img src='https://user-images.githubusercontent.com/126150587/220908891-899661a1-0ad9-4ebb-98c1-08c6684cd445.jpg' alt='discord' height='94'>](https://github.com/obajay)
-
-[<img src='https://user-images.githubusercontent.com/126150587/220909069-38a1e5d7-8f33-473b-b90d-92345241d6d5.jpg' alt='discord' height='94'>](https://github.com/obajay)[<img src='https://user-images.githubusercontent.com/126150587/220908891-899661a1-0ad9-4ebb-98c1-08c6684cd445.jpg' alt='discord' height='94'>](https://github.com/obajay)
-
-
+[<img src='https://user-images.githubusercontent.com/126150587/220909378-3fcb41d5-943e-49bd-840c-ce73056bac6d.jpg' alt='discord' height='94'>](https://github.com/obajay)[<img src='https://user-images.githubusercontent.com/126150587/220910195-1ecd582c-c1a9-4e7e-b790-d9253ce3e725.jpg' alt='discord' height='94'>](https://github.com/obajay)
+[<img src='https://user-images.githubusercontent.com/126150587/220910732-2cc5ae57-32f0-424d-be71-0b4c97065815.png' alt='discord' height='94'>](https://github.com/obajay)[<img src='https://user-images.githubusercontent.com/126150587/220909799-49285331-67c0-46bb-a2b5-631fa7270032.jpg' alt='discord' height='94'>](https://github.com/obajay)
+  
+[<img src='https://user-images.githubusercontent.com/126150587/220910732-2cc5ae57-32f0-424d-be71-0b4c97065815.png' alt='discord' height='94'>](https://github.com/obajay)[<img src='https://user-images.githubusercontent.com/126150587/220909799-49285331-67c0-46bb-a2b5-631fa7270032.jpg' alt='discord' height='94'>](https://github.com/obajay)  
+  
 #
 
 
