@@ -66,7 +66,7 @@ We work with opening new doors to very early crypto projects. We help projects d
 
 <a href="https://www.linkedin.com/in/kenblockchain/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bayu1s" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/1078183614967197736" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="bayu1swahyudi" height="30" width="40" /></a>
-<a href="https://twitter.com/kenblockchain_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboo goel" height="30" width="40" /></a>
+<a href="https://twitter.com/zakenparadox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboo goel" height="30" width="40" /></a>
 <a href="https://t.me/kenblockchaindev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="khushboo goel" height="30" width="40" /></a>
  
  
